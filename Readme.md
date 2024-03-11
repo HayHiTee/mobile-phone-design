@@ -5,5 +5,5 @@ Hint: Think about separating different features into different classes and check
 
 
 ## How to run
-1. Install node
-2. Run node mobile-phone-development.js
+1. Install [node](https://nodejs.org/en)
+2. Run `node mobile-phone-development.js`
