@@ -182,13 +182,11 @@ const battery_manufacturer = new Manufacturer("Bat_manufacture", "Ibadan, Nigeri
 const battery = new Battery(battery_manufacturer, "MK142", "3");
 battery.idle_time = 24;
 battery.hours_talk = 10;
-// console.log(battery.toString())
 
 // Screen
 const screen_manufacturer = new Manufacturer("Screen_Man", "Lagos, Nigeria",
     "1243456");
 const screen = new Screen(screen_manufacturer, 6, "black");
-// console.log(screen.toString())
 
 // Owner => Person
 const owner = new Owner("Kolade", "Abuja, Nigeria", "39382932");
